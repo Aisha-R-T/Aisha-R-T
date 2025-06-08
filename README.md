@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Aisha-R-T
-- 👀 I’m interested in learning lots of coding skills
-- 🌱 I’m currently learning more advanced Cpp, Java, intermediate python, plus some Unix scripting and PL/SQL
-- 💞️ I’m looking to collaborate on coding projects with creatives and other programming students
-- 📫 How to reach me: tahirkheli.aisha@gmail.com
+### 👋 Hi, I’m Aisha (@Aisha-R-T)
+
+🎯 I’m focused on transitioning into Machine Learning and Data Engineering roles, with an emphasis on clean system design and ML tooling.
+
+🧰 I’m currently building out my engineering toolbox by working with Python, SQL, Git, Docker, and ML infrastructure concepts like data pipelines, embedding systems, and prompt orchestration.
+
+🛠️ I’m especially interested in ML deployment workflows, MLOps, and designing intelligent systems that are easy to reason about and maintain.
+
+📫 You can reach me at: tahirkheli.aisha@gmail.com
+
+## I'm looking to join a team that values thoughtful, effective work over noise; somewhere I can grow my skillset and contribute meaningfully to the process.
 
 <!---
 Aisha-R-T/Aisha-R-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
