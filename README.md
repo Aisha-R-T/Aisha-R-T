@@ -6,8 +6,8 @@
 
 🛠️ I’m especially interested in ML deployment workflows, MLOps, and designing intelligent systems that are easy to reason about and maintain.
 
-🧭 What I value in a team:
-> I’m looking to join a team that values thoughtful, effective work over noise—somewhere I can grow my skillset and contribute meaningfully to the process.
+### 🧭 What I value in a team:
+I’m looking to join a team that values thoughtful, effective work over noise; somewhere I can grow my skillset and contribute meaningfully to the process.
 
 
 📫 You can reach me at: tahirkheli.aisha@gmail.com
